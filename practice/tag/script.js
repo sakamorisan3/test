@@ -4,7 +4,7 @@
         window.alert('アプリ連携が完了しました！！やったね！');
     }
 
-//時をとめる
+// 時をとめる
     window.onload = function(){
         var timer;
         //ページの読み込み時にタイマーを設定
