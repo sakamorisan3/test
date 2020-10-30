@@ -6,7 +6,7 @@
 
 //時をとめる
     window.onload = function(){
-        var timer;
+        let timer;
         //ページの読み込み時にタイマーを設定
         timer = window.setInterval(
             function(){
